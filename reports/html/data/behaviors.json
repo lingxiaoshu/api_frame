@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "立即购买成功",
+    "uid" : "f6093b3cd4f1c4ec",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666722141656,
+      "stop" : 1666722142153,
+      "duration" : 497
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'立即购买成功'" ]
+  }, {
+    "name" : "立即购买-数量为空",
+    "uid" : "271795d2e7a2ae9a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666722142437,
+      "stop" : 1666722142812,
+      "duration" : 375
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'立即购买-数量为空'" ]
+  } ]
+}

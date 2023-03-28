@@ -1,0 +1,11 @@
+test:
+  host: "82.156.74.26"
+  port: 3306
+  user: "root"
+  pwd: "Testfan#123"
+
+product:
+  host: "xx.xxx.xxx.xxx"
+  port: xxxx
+  user: "xxx"
+  pwd: "xxxxxx"

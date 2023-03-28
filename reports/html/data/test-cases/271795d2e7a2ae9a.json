@@ -1,0 +1,102 @@
+{
+  "uid" : "271795d2e7a2ae9a",
+  "name" : "立即购买-数量为空",
+  "fullName" : "keywords.test_run#test_run",
+  "historyId" : "24ce630b3ee299b6f7cffd48d41b4ac8",
+  "time" : {
+    "start" : 1666722142437,
+    "stop" : 1666722142812,
+    "duration" : 375
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "seller_login",
+    "time" : {
+      "start" : 1666722142312,
+      "stop" : 1666722142434,
+      "duration" : 122
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "buyer_login",
+    "time" : {
+      "start" : 1666722142166,
+      "stop" : 1666722142311,
+      "duration" : 145
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "66b73fe96fc80ddd",
+      "name" : "log",
+      "source" : "66b73fe96fc80ddd.txt",
+      "type" : "text/plain",
+      "size" : 7997
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "keywords"
+  }, {
+    "name" : "suite",
+    "value" : "test_run"
+  }, {
+    "name" : "host",
+    "value" : "LXSMI"
+  }, {
+    "name" : "thread",
+    "value" : "8668-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "keywords.test_run"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "casename",
+    "value" : "'立即购买-数量为空'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "271795d2e7a2ae9a.json",
+  "parameterValues" : [ "'立即购买-数量为空'" ]
+}

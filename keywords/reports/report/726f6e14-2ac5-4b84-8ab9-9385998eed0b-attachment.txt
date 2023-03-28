@@ -1,0 +1,31 @@
+INFO     apiautotest:client.py:55 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+INFO     apiautotest:client.py:55 接口信息是：('method', 'post')
+INFO     apiautotest:client.py:55 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjc1MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.drDR_1BjJwKEaDqg3Pxz7pfQVMdgFE3enB9ex6TRIRxvlRCBwLS8gbFv_SOmeJIvZqf_pe-T2887vVRI8LA70Q'})
+INFO     apiautotest:client.py:55 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+INFO     apiautotest:client.py:55 接口信息是：('data', None)
+INFO     apiautotest:client.py:55 接口信息是：('json', None)
+INFO     apiautotest:client.py:55 接口信息是：('files', None)
+INFO     apiautotest:client.py:56 准备开始发起请求
+INFO     apiautotest:client.py:59 接口响应状态码是：200
+INFO     apiautotest:client.py:60 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjc1MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.QAhVYa8x9zlJXkNGHOEsaaOoaeJsT8OCFRMgCPE81mbgJRv072uq8XRAMLed7BwGQiaWESh3WQ3zl7nBpQvxKQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzM1MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.kllS6VwQUiDS33Gxr04khg4Q3-Q5LhEeTQ-7qOv9r1ENitpr3hCVlDqJg-JvBSoCHGVahl7w80ciDvp5G0u8rw","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+INFO     apiautotest:client.py:55 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+INFO     apiautotest:client.py:55 接口信息是：('method', 'get')
+INFO     apiautotest:client.py:55 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI3NTAsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.Pna4NtNN71gQjtRvkYumHX_otSW2LG5C7S4RoYSCiA4vDJka46Noq5AljDUVX9tm3gQPlPODo1xalGd6nKMK-Q'})
+INFO     apiautotest:client.py:55 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+INFO     apiautotest:client.py:55 接口信息是：('data', None)
+INFO     apiautotest:client.py:55 接口信息是：('json', None)
+INFO     apiautotest:client.py:55 接口信息是：('files', None)
+INFO     apiautotest:client.py:56 准备开始发起请求
+INFO     apiautotest:client.py:59 接口响应状态码是：200
+INFO     apiautotest:client.py:60 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI3NTEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.GcfNvXjDcqJDpySYTjDrCU5NBmGXH9UAKLxoiO1wPaWjYecpcfFW9JH40quwvWQh_lNfPKkTSbRuZdLEnQqJJA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMzNTEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.m5GtKG7lZRGRIuzvRTjFjBtX7fsdzXICcUb_21KOYRlY0J3r8SIv742TvD6PoBqvjsMZQLNDQ8rFrgnPV50Ndw","face":null,"role_id":0,"founder":1}
+INFO     apiautotest:client.py:73 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI3NTEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.GcfNvXjDcqJDpySYTjDrCU5NBmGXH9UAKLxoiO1wPaWjYecpcfFW9JH40quwvWQh_lNfPKkTSbRuZdLEnQqJJA
+INFO     apiautotest:client.py:55 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+INFO     apiautotest:client.py:55 接口信息是：('method', 'post')
+INFO     apiautotest:client.py:55 接口信息是：('headers', None)
+INFO     apiautotest:client.py:55 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+INFO     apiautotest:client.py:55 接口信息是：('data', None)
+INFO     apiautotest:client.py:55 接口信息是：('json', None)
+INFO     apiautotest:client.py:55 接口信息是：('files', None)
+INFO     apiautotest:client.py:56 准备开始发起请求
+INFO     apiautotest:client.py:59 接口响应状态码是：500
+INFO     apiautotest:client.py:60 接口响应内容是：{"code":"107","message":"账号密码错误！"}

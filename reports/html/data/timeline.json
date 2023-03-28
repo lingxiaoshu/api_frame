@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LXSMI",
+    "children" : [ {
+      "name" : "8668-MainThread",
+      "children" : [ {
+        "name" : "立即购买-数量为空",
+        "uid" : "271795d2e7a2ae9a",
+        "parentUid" : "3ba3cb79d8629635fa55efdcead4cd72",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666722142437,
+          "stop" : 1666722142812,
+          "duration" : 375
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'立即购买-数量为空'" ]
+      }, {
+        "name" : "立即购买成功",
+        "uid" : "f6093b3cd4f1c4ec",
+        "parentUid" : "3ba3cb79d8629635fa55efdcead4cd72",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666722141656,
+          "stop" : 1666722142153,
+          "duration" : 497
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'立即购买成功'" ]
+      } ],
+      "uid" : "3ba3cb79d8629635fa55efdcead4cd72"
+    } ],
+    "uid" : "705c32f25242af38afe5797b18c4582f"
+  } ]
+}

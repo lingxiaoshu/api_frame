@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "keywords",
+    "children" : [ {
+      "name" : "test_run",
+      "children" : [ {
+        "name" : "立即购买成功",
+        "uid" : "f6093b3cd4f1c4ec",
+        "parentUid" : "64f1ddee7644f74511ef4c18808cfbf3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666722141656,
+          "stop" : 1666722142153,
+          "duration" : 497
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'立即购买成功'" ]
+      }, {
+        "name" : "立即购买-数量为空",
+        "uid" : "271795d2e7a2ae9a",
+        "parentUid" : "64f1ddee7644f74511ef4c18808cfbf3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666722142437,
+          "stop" : 1666722142812,
+          "duration" : 375
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'立即购买-数量为空'" ]
+      } ],
+      "uid" : "64f1ddee7644f74511ef4c18808cfbf3"
+    } ],
+    "uid" : "42d571256163f4aacfad291ee726747a"
+  } ]
+}

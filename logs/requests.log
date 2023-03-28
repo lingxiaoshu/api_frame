@@ -1,0 +1,1016 @@
+2022-10-26 00:55:45,900 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 00:55:45,902 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 00:55:45,902 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 00:55:45,902 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 00:55:45,902 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 00:55:45,902 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 00:55:45,904 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 00:55:45,905 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 00:55:46,149 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 00:55:46,149 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODE0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.1YlxOMv8hKKEzZKF4hmmYADXztYE7er46LuOJ6HXzqPo1j8Wl-ZF8NEZLdJQYkPiYhsXFgAGR0VsrZhi6m1gbA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODc0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.dJ1VpRZWoCi1qUdb3s2XC7uLsL3CHKnqgnbBt_gg9IdhSYzxPJBrq4lKoHMh3NJ5liPqsLqV1HGDMcATFqmSnA","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 00:55:46,152 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 00:55:46,152 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 00:55:46,152 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 00:55:46,152 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 00:55:46,152 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 00:55:46,152 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 00:55:46,152 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 00:55:46,152 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 00:55:46,412 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 00:55:46,413 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTgxNDYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.7HHfcbN29rrrhFWKci67PywDxRWobLhd6Tf-LCir-ffvTX9zhy4_AOVmfzn1hNgkY0uY5cl3Re6aUyOzSRGZfQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg3NDYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.ibPoJNNSLBld3Teax84bC_dfn5P4jBo1hy1_Qiuk9uMXVe1_mrO9Lbqf-D1dI_TjVRioQAcR2EATvqBDtpvnIw","face":null,"role_id":0,"founder":1}
+2022-10-26 00:55:46,413 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTgxNDYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.7HHfcbN29rrrhFWKci67PywDxRWobLhd6Tf-LCir-ffvTX9zhy4_AOVmfzn1hNgkY0uY5cl3Re6aUyOzSRGZfQ
+2022-10-26 00:55:46,590 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 00:55:46,590 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 00:55:46,590 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODE0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.1YlxOMv8hKKEzZKF4hmmYADXztYE7er46LuOJ6HXzqPo1j8Wl-ZF8NEZLdJQYkPiYhsXFgAGR0VsrZhi6m1gbA'})
+2022-10-26 00:55:46,590 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 00:55:46,590 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 00:55:46,590 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 00:55:46,590 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 00:55:46,590 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 00:55:46,701 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 00:55:46,701 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODE0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.1YlxOMv8hKKEzZKF4hmmYADXztYE7er46LuOJ6HXzqPo1j8Wl-ZF8NEZLdJQYkPiYhsXFgAGR0VsrZhi6m1gbA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODc0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.dJ1VpRZWoCi1qUdb3s2XC7uLsL3CHKnqgnbBt_gg9IdhSYzxPJBrq4lKoHMh3NJ5liPqsLqV1HGDMcATFqmSnA","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 00:55:46,703 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 00:55:46,703 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 00:55:46,704 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTgxNDYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.7HHfcbN29rrrhFWKci67PywDxRWobLhd6Tf-LCir-ffvTX9zhy4_AOVmfzn1hNgkY0uY5cl3Re6aUyOzSRGZfQ'})
+2022-10-26 00:55:46,704 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 00:55:46,704 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 00:55:46,704 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 00:55:46,704 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 00:55:46,704 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 00:55:46,830 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 00:55:46,831 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTgxNDYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.7HHfcbN29rrrhFWKci67PywDxRWobLhd6Tf-LCir-ffvTX9zhy4_AOVmfzn1hNgkY0uY5cl3Re6aUyOzSRGZfQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg3NDYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.ibPoJNNSLBld3Teax84bC_dfn5P4jBo1hy1_Qiuk9uMXVe1_mrO9Lbqf-D1dI_TjVRioQAcR2EATvqBDtpvnIw","face":null,"role_id":0,"founder":1}
+2022-10-26 00:55:46,832 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTgxNDYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.7HHfcbN29rrrhFWKci67PywDxRWobLhd6Tf-LCir-ffvTX9zhy4_AOVmfzn1hNgkY0uY5cl3Re6aUyOzSRGZfQ
+2022-10-26 00:57:25,164 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 00:57:25,165 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 00:57:25,165 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 00:57:25,165 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 00:57:25,166 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 00:57:25,166 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 00:57:25,166 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 00:57:25,166 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 00:57:25,407 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 00:57:25,408 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODI0NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.zg_-Msy5JXKy9vDwsM3NXaCLWNkkjXe2C0ANiANkKvxKwQGV2ZojyPNrV8jzSaRpslCTZHfHasEbbhC9Nzuq5w","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODg0NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.8ZEluuri3TMj3R0_Nsgf6aMtWtldXfRwL80PVaHVKaoPdWKbq2OCMob0d3vGNLKrgB1LARjUW94GD9F6iaivcA","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 00:57:25,417 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 00:57:25,417 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 00:57:25,418 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 00:57:25,418 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 00:57:25,418 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 00:57:25,419 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 00:57:25,419 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 00:57:25,420 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 00:57:25,675 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 00:57:25,675 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTgyNDUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.I9nFqK-BVs3mCnkUO8v1rPfq9TVSnhTkNMDy5dnBkZ9dO4n68CQDfmdNdoMA-0Xlk80qQHbXrLMUbtCgcFCAqQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg4NDUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.NoiU-pEgssfPgKwZgo8Rc9VXNFhhhbW2E1HFkgO_rstTB92P9Pb51rhyytNWOQ8XVFGKZXD0Sj5dyS0rpeni1w","face":null,"role_id":0,"founder":1}
+2022-10-26 00:57:25,676 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTgyNDUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.I9nFqK-BVs3mCnkUO8v1rPfq9TVSnhTkNMDy5dnBkZ9dO4n68CQDfmdNdoMA-0Xlk80qQHbXrLMUbtCgcFCAqQ
+2022-10-26 00:57:25,749 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 00:57:25,750 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 00:57:25,750 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 00:57:25,750 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 00:57:25,750 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 00:57:25,750 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 00:57:25,751 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 00:57:25,751 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 00:57:25,952 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 00:57:25,952 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 00:57:26,146 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 00:57:26,147 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 00:57:26,147 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODI0NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.zg_-Msy5JXKy9vDwsM3NXaCLWNkkjXe2C0ANiANkKvxKwQGV2ZojyPNrV8jzSaRpslCTZHfHasEbbhC9Nzuq5w'})
+2022-10-26 00:57:26,147 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 00:57:26,147 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 00:57:26,147 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 00:57:26,148 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 00:57:26,148 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 00:57:26,252 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 00:57:26,252 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODI0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.lE30yHReQYly6a2_MQUwZ8oT_CSt0VJNmBvzU9ali0d55yS4z9XGH115ZhODOwubmr6aUhcORYQo02iZKYTjBQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODg0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ._MInsPJQ3yzPKkaAyIcd7jcL_nZOj9j4s5t_npVSGPU50Drl7AMlvIb06aUndiveueeqUAy8MnuTQdbmDF080w","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 00:57:26,255 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 00:57:26,255 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 00:57:26,255 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTgyNDUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.I9nFqK-BVs3mCnkUO8v1rPfq9TVSnhTkNMDy5dnBkZ9dO4n68CQDfmdNdoMA-0Xlk80qQHbXrLMUbtCgcFCAqQ'})
+2022-10-26 00:57:26,256 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 00:57:26,256 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 00:57:26,256 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 00:57:26,256 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 00:57:26,256 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 00:57:26,367 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 00:57:26,367 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTgyNDYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.LXC5mLE350rb_XMJgYhr7whNdVye3l-YpioKiqQfTBkYOzB_q_Hb8rYKM_1wocvaJ6ojxQa20bVkJxuEluDMFg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg4NDYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.YX4qU3BT3Hw38Ba5SkQmS6980gQhpW59DaO7TdC9pUZ0rWAsU0zySl-14BYyhPorEQDx0Mz37-s24NiP95IQfQ","face":null,"role_id":0,"founder":1}
+2022-10-26 00:57:26,367 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTgyNDYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.LXC5mLE350rb_XMJgYhr7whNdVye3l-YpioKiqQfTBkYOzB_q_Hb8rYKM_1wocvaJ6ojxQa20bVkJxuEluDMFg
+2022-10-26 00:57:26,401 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 00:57:26,401 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 00:57:26,401 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 00:57:26,401 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 00:57:26,402 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 00:57:26,402 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 00:57:26,402 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 00:57:26,402 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 00:57:26,605 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 00:57:26,605 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 01:06:34,754 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:06:34,754 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:06:34,754 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:06:34,754 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:06:34,755 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:06:34,755 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:06:34,755 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:06:34,755 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:06:34,875 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:06:34,875 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODc5NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.rohLu3hzaasqC7NiVrujpf4ZfQ7NKoebVTsXWrVt1j0t6bmNpZTPZhIljTjUKoWf4Bdeb723QNzhYs1_ifxfLw","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxOTM5NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.nvGEVQoOdr5QJd6lnnmct5Oy3pPM3yYNe-C-6TZOpnyPC9G8bGB8PPOuc21g1ZmhBgevnMyemKy50KwBEstv6w","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:06:34,878 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:06:34,878 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:06:34,878 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:06:34,878 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:06:34,878 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:06:34,878 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:06:34,878 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:06:34,878 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:06:35,118 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:06:35,118 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg3OTUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.Hyfc3bwYOA7WwKKdr9TJbddVu0MMyqx3uokLODXJQtOXfWc8mLui1KmldIhBwRWw7gvDtEikFtfpTXFdAfbYeQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTkzOTUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.iIOnwlsq8GzvqUeneOCEVuRxYkJVKPObFsYq7EGFEGDkPlkgatI-ret54jOKM7g22RPaQtku_v4vfLEKGqGviw","face":null,"role_id":0,"founder":1}
+2022-10-26 01:06:35,118 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg3OTUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.Hyfc3bwYOA7WwKKdr9TJbddVu0MMyqx3uokLODXJQtOXfWc8mLui1KmldIhBwRWw7gvDtEikFtfpTXFdAfbYeQ
+2022-10-26 01:06:35,149 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:06:35,149 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:06:35,149 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 01:06:35,149 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:06:35,149 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:06:35,150 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:06:35,150 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:06:35,150 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:06:35,354 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 01:06:35,354 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 01:06:35,559 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:06:35,559 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:06:35,559 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODc5NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.rohLu3hzaasqC7NiVrujpf4ZfQ7NKoebVTsXWrVt1j0t6bmNpZTPZhIljTjUKoWf4Bdeb723QNzhYs1_ifxfLw'})
+2022-10-26 01:06:35,560 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:06:35,561 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:06:35,561 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:06:35,562 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:06:35,562 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:06:35,696 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:06:35,697 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODc5NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.FYsiGfau1wVpbT6TF3OaxtElpsmwXl9RPfLK1STzkgsTGvM5NkUJohzmn1czmH7P679AuvS_I9wRVc3v6vOF2A","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxOTM5NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.XN232Dg3jYCZLhY7Dh2aagtge69htJeaXxp4B6T58nzTCoi3Z7exZcK96TNojLIIBWGaBh5ao_rpIXGSItwpyg","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:06:35,700 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:06:35,700 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:06:35,701 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg3OTUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.Hyfc3bwYOA7WwKKdr9TJbddVu0MMyqx3uokLODXJQtOXfWc8mLui1KmldIhBwRWw7gvDtEikFtfpTXFdAfbYeQ'})
+2022-10-26 01:06:35,701 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:06:35,701 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:06:35,701 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:06:35,701 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:06:35,702 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:06:36,071 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:06:36,071 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg3OTYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.xI91g-RIjXIU7fCr5Z_i-tIryoqgExUeOMXXU8x1IseJusIEATpDPUCXYF7iL5baaiCINN8-5EKToGX71Gj3OQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTkzOTYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.ziYeuiRtGWXKWp7mo4ayHTOpV6PvrMsHjjVzuScwb2fS8NsHwPqnggeXzEu4YAX-FKvyWBuGWkdIMLj5Xvqy8Q","face":null,"role_id":0,"founder":1}
+2022-10-26 01:06:36,072 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg3OTYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.xI91g-RIjXIU7fCr5Z_i-tIryoqgExUeOMXXU8x1IseJusIEATpDPUCXYF7iL5baaiCINN8-5EKToGX71Gj3OQ
+2022-10-26 01:06:36,115 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:06:36,115 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:06:36,115 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 01:06:36,115 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:06:36,115 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:06:36,115 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:06:36,115 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:06:36,116 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:06:36,408 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 01:06:36,408 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 01:07:32,289 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:07:32,290 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:07:32,291 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:07:32,291 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:07:32,291 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:07:32,291 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:07:32,291 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:07:32,291 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:07:32,549 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:07:32,549 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODg1MiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.BI_KeuZdur3DSDpV3Gnhh18QQndemZ033I5NO1KdzmbXGFoZhpq6k5k5PmvS3s-utgdxfJZkNbWm2gEnmpamjA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxOTQ1MiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ._LvvlAH0wPCxBPnrRfCHBSZI1U6ET7z2CxJCUoc3mkUvWo_4B49gHfX62w0jXGcnJ7V5yUHfV4sdcudBEUKwAA","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:07:32,552 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:07:32,552 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:07:32,552 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:07:32,552 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:07:32,552 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:07:32,553 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:07:32,553 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:07:32,553 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:07:32,787 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:07:32,788 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg4NTIsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.ICj6Bxb9o_1BQEs7s_lp8Bcunr9a5b9dkPQQs7XbW_z93pBViPQNw7h0t5q9NBRuc09BEPjVMjmC43ljAxO1bw","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTk0NTIsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.gcBK8wQNMqz5mv0oX86PasY9IkaKD_HTr4hy-XqHePREmGnxQeuxaWsrxaaDHRuLCMQ_YydwcoaI-y7CsJNYXg","face":null,"role_id":0,"founder":1}
+2022-10-26 01:07:32,788 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg4NTIsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.ICj6Bxb9o_1BQEs7s_lp8Bcunr9a5b9dkPQQs7XbW_z93pBViPQNw7h0t5q9NBRuc09BEPjVMjmC43ljAxO1bw
+2022-10-26 01:07:32,818 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:07:32,818 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:07:32,818 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 01:07:32,818 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:07:32,818 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:07:32,819 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:07:32,819 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:07:32,819 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:07:33,027 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 01:07:33,028 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 01:07:33,232 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:07:33,232 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:07:33,232 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODg1MiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.BI_KeuZdur3DSDpV3Gnhh18QQndemZ033I5NO1KdzmbXGFoZhpq6k5k5PmvS3s-utgdxfJZkNbWm2gEnmpamjA'})
+2022-10-26 01:07:33,233 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:07:33,233 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:07:33,233 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:07:33,233 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:07:33,233 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:07:33,342 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:07:33,342 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxODg1MywidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.su8pRUDvlFeE8rEyjRBE4oNBGxdtTOwkoDkZU8cQhvoSVdOOuKmFRzZgLRn3k_-EmG5FEd1g-Vomt258PCH9Ig","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxOTQ1MywidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.6TgLuLgylzlgdjnnSL1uZBQbSG1vHEzheR1zhLrsEvjoH7rfujyMQz5CzBGHMUgEHrdHdkR0TD3W5VYTs_2sAg","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:07:33,344 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:07:33,344 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:07:33,344 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg4NTIsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.ICj6Bxb9o_1BQEs7s_lp8Bcunr9a5b9dkPQQs7XbW_z93pBViPQNw7h0t5q9NBRuc09BEPjVMjmC43ljAxO1bw'})
+2022-10-26 01:07:33,344 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:07:33,344 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:07:33,345 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:07:33,345 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:07:33,345 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:07:33,474 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:07:33,475 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg4NTMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.grNQarXeXoYOi9dvAu94wx0XpT5ICs2T7oUydh5Vpniug_v3DX2axeT7JDkkFJWf9xb3B-JpMT59C_XIMsBIGg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTk0NTMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.d2OjSthShfQOjsI8aOUd_XDCcAzCv6m9NlVGGIIUduvzxZ2V6duwJxqw-gcA0pZbv26p_rUvy263Wry7DmsE5Q","face":null,"role_id":0,"founder":1}
+2022-10-26 01:07:33,475 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTg4NTMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.grNQarXeXoYOi9dvAu94wx0XpT5ICs2T7oUydh5Vpniug_v3DX2axeT7JDkkFJWf9xb3B-JpMT59C_XIMsBIGg
+2022-10-26 01:07:33,511 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:07:33,511 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:07:33,511 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 01:07:33,512 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:07:33,512 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:07:33,512 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:07:33,512 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:07:33,512 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:07:33,706 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 01:07:33,707 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 01:19:03,178 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:19:03,178 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:19:03,178 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:19:03,178 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:19:03,178 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:19:03,178 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:19:03,178 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:19:03,179 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:19:03,512 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:19:03,513 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxOTU0MywidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.UdNfyJxEk0YQCp8UhEf-H2DHzZimspqcDjTJi8MvlVtVHt4bJulJj7FbLB7c15cphWlO4UK1qDbHBqTxd1s8qw","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMDE0MywidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.BoBkkEQ64yNlbH53aqzAI8QQJFBXVD4Apo-Kz6fMJRCkx2iLREPqjYcCCv9waq1A_7RF6OByL7XqF5M63eaiag","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:19:03,523 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:19:03,524 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:19:03,524 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:19:03,525 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:19:03,525 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:19:03,525 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:19:03,526 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:19:03,526 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:19:03,803 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:19:03,803 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTk1NDMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.PQkd0TF9fTfrkn4WgWjjbAf-pYIz_REtxlxEqfgkUWzKsySaRETtbZ3-Qnpt22yhZhPAp5krqaPtimvmrhGsKQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjAxNDMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.NxwL2hg5MoynoYfOjCA1I-Tnaf4zyHSEX9iLHPEp_2lcaBQt1-1O5mHBrXtChP0lBVLDYJbAIHEC7xkXk_pUvg","face":null,"role_id":0,"founder":1}
+2022-10-26 01:19:03,804 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTk1NDMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.PQkd0TF9fTfrkn4WgWjjbAf-pYIz_REtxlxEqfgkUWzKsySaRETtbZ3-Qnpt22yhZhPAp5krqaPtimvmrhGsKQ
+2022-10-26 01:19:03,861 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:19:03,862 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:19:03,863 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 01:19:03,863 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:19:03,863 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:19:03,864 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:19:03,864 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:19:03,864 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:19:04,173 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 01:19:04,174 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 01:19:04,329 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:19:04,329 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:19:04,329 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxOTU0MywidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.UdNfyJxEk0YQCp8UhEf-H2DHzZimspqcDjTJi8MvlVtVHt4bJulJj7FbLB7c15cphWlO4UK1qDbHBqTxd1s8qw'})
+2022-10-26 01:19:04,330 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:19:04,330 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:19:04,330 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:19:04,330 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:19:04,330 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:19:04,483 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:19:04,483 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcxOTU0NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.pRxrHcSdjj497nWxetpgSP5ftfvW6OklOAVpSPj0W3y8aqK6Q2f13qksL1HGjxtCE47q64XgrBMn0w-sk03K6Q","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMDE0NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.1KF4OZbc_kfFxf_-c8RlGC6UBf9116TXdD4geKAR0JsVooScoBQMUg8vRDBzjsJ4bcPX4S8mv8wW85Cl_ih6rw","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:19:04,490 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:19:04,491 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:19:04,491 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTk1NDMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.PQkd0TF9fTfrkn4WgWjjbAf-pYIz_REtxlxEqfgkUWzKsySaRETtbZ3-Qnpt22yhZhPAp5krqaPtimvmrhGsKQ'})
+2022-10-26 01:19:04,492 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:19:04,492 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:19:04,493 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:19:04,493 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:19:04,494 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:19:04,823 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:19:04,824 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTk1NDQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.FApy2wNE5C4Alc-aGAmTn0xthdxbmMEytbhQb-8oLtTh2sqIM-UKkVeGdtcAvcC6-qc__zljsRksRd04ml25fg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjAxNDQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.SpoHoEfHmg_tgEmwkJtbWk82u8juWGoBpYpx-yPc1KlgdBUGoBxdzotNrRbfOYS9ygHBjndlD3lkaX7pL-0XjQ","face":null,"role_id":0,"founder":1}
+2022-10-26 01:19:04,825 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MTk1NDQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.FApy2wNE5C4Alc-aGAmTn0xthdxbmMEytbhQb-8oLtTh2sqIM-UKkVeGdtcAvcC6-qc__zljsRksRd04ml25fg
+2022-10-26 01:19:04,892 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:19:04,892 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:19:04,893 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 01:19:04,893 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:19:04,893 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:19:04,893 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:19:04,893 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:19:04,893 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:19:05,181 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 01:19:05,182 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 01:28:50,009 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:28:50,009 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:28:50,009 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:28:50,009 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:28:50,009 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:28:50,009 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:28:50,009 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:28:50,010 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:28:50,262 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:28:50,263 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMDEzMCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.47VOIF21HpYFyKpDFjs4B4UrGM9ufxUrrv0z7z4oQK9V03mmWxU8KSwYdzAdGsneMckbSCKKFXij4pmbDOZQdg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMDczMCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.gxWP6eCyIrphkmszsARkPDKAZjSucDh2IIvkwcFHkMkCURFIki2rgyOM66scH7CH4_sFJh6Tt72HQcdlmghBmQ","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:28:50,270 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:28:50,270 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:28:50,271 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:28:50,271 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:28:50,271 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:28:50,271 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:28:50,271 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:28:50,272 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:28:50,540 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:28:50,541 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjAxMzAsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.6rPGSz364EfZqgWlG4cqLPHeOx3BNjG_huRRltJwb-UeHLLN941yOSoa5E9iCrxzNlh6d0Lg1-XZXKS40wxmIg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjA3MzAsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.uzKQ9ePv_l9ViI2ijgH8WcojthLQu18cbTUPp05lgueo-g6CRQW-J9xltXjLlAi7Je5f2Ay0JI6FjThMauxZew","face":null,"role_id":0,"founder":1}
+2022-10-26 01:28:50,542 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjAxMzAsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.6rPGSz364EfZqgWlG4cqLPHeOx3BNjG_huRRltJwb-UeHLLN941yOSoa5E9iCrxzNlh6d0Lg1-XZXKS40wxmIg
+2022-10-26 01:28:50,632 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:28:50,632 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:28:50,632 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 01:28:50,632 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:28:50,633 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:28:50,633 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:28:50,633 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:28:50,633 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:28:50,886 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 01:28:50,887 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 01:28:51,050 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:28:51,051 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:28:51,051 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMDEzMCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.47VOIF21HpYFyKpDFjs4B4UrGM9ufxUrrv0z7z4oQK9V03mmWxU8KSwYdzAdGsneMckbSCKKFXij4pmbDOZQdg'})
+2022-10-26 01:28:51,051 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:28:51,051 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:28:51,052 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:28:51,052 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:28:51,052 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:28:51,169 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:28:51,170 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMDEzMSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.XL6nGxUXQ0Aa50LACag8Qk_pGGKdHAnyVbQ26VG9i8K8DlRw6Js54RsO6wLSS4r8VLU96IKwGmqfvv3WW8-WYQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMDczMSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.-8SAGwL4X-LCN77ek8jVI3A-3dTbUZ5-UbDp4yOFxXYgWSfi1aMt8M54yga2TKFGujJgcttyJC2x6Wb9tcGxnA","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:28:51,175 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:28:51,176 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:28:51,176 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjAxMzAsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.6rPGSz364EfZqgWlG4cqLPHeOx3BNjG_huRRltJwb-UeHLLN941yOSoa5E9iCrxzNlh6d0Lg1-XZXKS40wxmIg'})
+2022-10-26 01:28:51,176 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:28:51,177 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:28:51,177 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:28:51,177 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:28:51,177 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:28:51,305 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:28:51,306 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjAxMzEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.L3NcUhJQ7bha8o1NEbHq7kv6_iHB0SLRMCLal9MRfTnSwgYxxasrIhtBFY4nRShcAnXI41i4Vg5LEP8gwz95rA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjA3MzEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.Ac6wwgzYlX2Pv2fT7G5jmMY_TPg6elE4Ac8BYgzj9iHUvFaNrmrw9OTmyw2igPIdYqzQTjASOFYTQUD88OqAag","face":null,"role_id":0,"founder":1}
+2022-10-26 01:28:51,307 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjAxMzEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.L3NcUhJQ7bha8o1NEbHq7kv6_iHB0SLRMCLal9MRfTnSwgYxxasrIhtBFY4nRShcAnXI41i4Vg5LEP8gwz95rA
+2022-10-26 01:28:51,371 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:28:51,371 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:28:51,371 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 01:28:51,371 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:28:51,371 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:28:51,371 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:28:51,372 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:28:51,372 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:28:51,576 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 01:28:51,576 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 01:39:42,827 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:39:42,827 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:39:42,827 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:39:42,827 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:39:42,827 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:39:42,827 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:39:42,827 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:39:42,828 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:39:43,076 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:39:43,076 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMDc4MywidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.3GMKehJKjOzfuegBN_MEvCDa7YDAv0QEwWtjmYJmWMIdTSLolNif_Uqp53xbwSbTGqnW1pdfr0baXD7pGg9ZwA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTM4MywidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.EMCmoL0CVgTyKQfoGPkIrQL1my4NOjkwr4kXjfkf9Q8DIC0I9vgIdtLszBrpFoh0LBO3jrGynBXytaJ_S0-DMA","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:39:43,080 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:39:43,080 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:39:43,080 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:39:43,081 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:39:43,081 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:39:43,081 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:39:43,081 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:39:43,081 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:39:43,322 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:39:43,322 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjA3ODMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.9qanmUhTPV13wwy10n6wa0e-NAUMXki3wKbwxRCkbMDktpHkk5e4gDT9S_7F6vFO7nLrWrSZSGiX9XP4aQBZ0Q","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjEzODMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.JtkPbUQG-zS_cf5rTVB6JuLXPiRMdcIQhgLI5pNrCAokBVXx9odl6zW84pUlfqDMGq2CLUgJCiEjgIFca9V1DQ","face":null,"role_id":0,"founder":1}
+2022-10-26 01:39:43,322 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjA3ODMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.9qanmUhTPV13wwy10n6wa0e-NAUMXki3wKbwxRCkbMDktpHkk5e4gDT9S_7F6vFO7nLrWrSZSGiX9XP4aQBZ0Q
+2022-10-26 01:39:43,352 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:39:43,352 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:39:43,353 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 01:39:43,353 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:39:43,353 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:39:43,353 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:39:43,353 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:39:43,353 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:39:43,559 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 01:39:43,559 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 01:39:43,664 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:39:43,664 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:39:43,664 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMDc4MywidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.3GMKehJKjOzfuegBN_MEvCDa7YDAv0QEwWtjmYJmWMIdTSLolNif_Uqp53xbwSbTGqnW1pdfr0baXD7pGg9ZwA'})
+2022-10-26 01:39:43,664 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:39:43,664 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:39:43,665 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:39:43,665 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:39:43,665 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:39:43,770 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:39:43,770 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMDc4MywidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.3GMKehJKjOzfuegBN_MEvCDa7YDAv0QEwWtjmYJmWMIdTSLolNif_Uqp53xbwSbTGqnW1pdfr0baXD7pGg9ZwA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTM4MywidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.EMCmoL0CVgTyKQfoGPkIrQL1my4NOjkwr4kXjfkf9Q8DIC0I9vgIdtLszBrpFoh0LBO3jrGynBXytaJ_S0-DMA","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:39:43,774 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:39:43,775 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:39:43,775 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjA3ODMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.9qanmUhTPV13wwy10n6wa0e-NAUMXki3wKbwxRCkbMDktpHkk5e4gDT9S_7F6vFO7nLrWrSZSGiX9XP4aQBZ0Q'})
+2022-10-26 01:39:43,775 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:39:43,776 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:39:43,776 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:39:43,776 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:39:43,776 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:39:43,900 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:39:43,900 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjA3ODMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.9qanmUhTPV13wwy10n6wa0e-NAUMXki3wKbwxRCkbMDktpHkk5e4gDT9S_7F6vFO7nLrWrSZSGiX9XP4aQBZ0Q","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjEzODMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.JtkPbUQG-zS_cf5rTVB6JuLXPiRMdcIQhgLI5pNrCAokBVXx9odl6zW84pUlfqDMGq2CLUgJCiEjgIFca9V1DQ","face":null,"role_id":0,"founder":1}
+2022-10-26 01:39:43,901 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjA3ODMsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.9qanmUhTPV13wwy10n6wa0e-NAUMXki3wKbwxRCkbMDktpHkk5e4gDT9S_7F6vFO7nLrWrSZSGiX9XP4aQBZ0Q
+2022-10-26 01:39:43,957 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:39:43,957 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:39:43,957 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 01:39:43,958 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:39:43,958 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:39:43,958 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:39:43,958 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:39:43,958 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:39:44,199 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 01:39:44,199 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 01:51:30,524 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:51:30,524 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:51:30,525 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:51:30,525 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:51:30,525 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:51:30,525 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:51:30,525 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:51:30,525 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:51:30,806 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:51:30,806 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTQ5MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.mkrMMo8etOlCVDJH1NELTJ2IkTYrudR8qAmn2uA6HDbrUEKBzn8TJW84nIQa9bidgweuNSKgSCZUQZThWKHEDA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjA5MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.wp_E32zQYTK8zNHdJT-Kpl0RSKrUIjiCDLbtVqpLQoFXyGU6SvAJkMG4jYBq4L0sLnzrQQB6q0Xr1KWGFNHA1A","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:51:30,812 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:51:30,813 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:51:30,813 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:51:30,813 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:51:30,814 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:51:30,814 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:51:30,815 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:51:30,816 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:51:31,118 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:51:31,118 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE0OTEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.AoWQLfyRyZLO6he9Cx3pGoWHCMOynNOq5JSf4wVzlQz9lXRpFiH5opFadQ6qZyZQ8Z2XCyVARzvMkXjmuEG4jA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjIwOTEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.CyvzB2YD-yo0hJc7OrtHqT9HQUW36g2HQjJSZ4r31eHNOjwTK6qchghJ-xph0nGewO__GF_MANwgZuv0dMWwiA","face":null,"role_id":0,"founder":1}
+2022-10-26 01:51:31,119 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE0OTEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.AoWQLfyRyZLO6he9Cx3pGoWHCMOynNOq5JSf4wVzlQz9lXRpFiH5opFadQ6qZyZQ8Z2XCyVARzvMkXjmuEG4jA
+2022-10-26 01:51:31,158 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/goods')
+2022-10-26 01:51:31,158 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:51:31,158 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE0OTEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.AoWQLfyRyZLO6he9Cx3pGoWHCMOynNOq5JSf4wVzlQz9lXRpFiH5opFadQ6qZyZQ8Z2XCyVARzvMkXjmuEG4jA'})
+2022-10-26 01:51:31,158 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', None)
+2022-10-26 01:51:31,159 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:51:31,159 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', {'brand_id': '', 'category_id': 88, 'category_name': '', 'goods_name': '彩虹豆测试88', 'sn': '342435', 'price': '101', 'mktprice': '100', 'cost': '60', 'weight': '1', 'goods_gallery_list': [{'img_id': -1, 'original': 'http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png', 'sort': 0}], 'quantity': 9999999, 'goods_transfee_charge': 1, 'has_changed': 0, 'market_enable': 1, 'template_id': 0, 'exchange': {'category_id': '', 'enable_exchange': 0, 'exchange_money': 0, 'exchange_point': 0}, 'shop_cat_id': 0, 'meta_description': '', 'meta_keywords': '', 'page_title': '', 'goods_params_list': [], 'sku_list': [], 'intro': ''})
+2022-10-26 01:51:31,159 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:51:31,159 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:51:31,554 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:51:31,554 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"goods_id":26710,"goods_name":"彩虹豆**88","sn":"342435","brand_id":null,"category_id":88,"goods_type":"NORMAL","weight":1.0,"market_enable":1,"intro":"","price":101.0,"cost":60.0,"mktprice":100.0,"have_spec":0,"create_time":1666720291,"last_modify":1666720291,"view_count":0,"buy_count":0,"disabled":1,"quantity":9999999,"enable_quantity":9999999,"point":null,"page_title":"彩虹豆测试88","meta_keywords":"彩虹豆测试88","meta_description":"彩虹豆测试88","grade":100.0,"thumbnail":"http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png_300x300.png","big":"http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png_800x800.png","small":"http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png_400x400.png","original":"http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png","seller_id":20,"shop_cat_id":0,"comment_num":0,"template_id":0,"goods_transfee_charge":1,"seller_name":"沙陌的店","is_auth":0,"auth_message":null,"under_message":null,"self_operated":0}
+2022-10-26 01:51:31,655 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：26710
+2022-10-26 01:53:16,000 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:53:16,000 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:53:16,000 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:53:16,000 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:53:16,000 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:53:16,001 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:53:16,001 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:53:16,001 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:53:16,256 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:53:16,256 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTU5NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.Ok6DY1NcIfFi9ZH78jh61wzCgO8wj7dwCSfA3_BfEi6VDGX05aGBOjlyiakjLuxIKZLBLXuFjLOe5GPgCEoRzQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjE5NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.w88dJBtBfKOw2iC35dvnDrsm_4I85UIGrxqzcjxPWiG7vkXbP_mtY-C3cIf_yTLyHXkwQGRe4KKUworI12nd5Q","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:53:16,262 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:53:16,262 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:53:16,262 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:53:16,263 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:53:16,263 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:53:16,263 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:53:16,263 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:53:16,264 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:53:16,511 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:53:16,512 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE1OTYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.BtApZcS1MASdEeQruen31jAMKAVxEVfR6ZiJ-U1d0JlF2D4cA_M-pjIWeXtfD5Ve8SEMx-Et1czNTYUzZd_07Q","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjIxOTYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.wFaWMNb1eUChLx837r9Y0YRy_xsP_0NSFSMBvpmA2AImjMs1bNMca66IFWm0Z-gec5sCM6gRMJq4RdLjwR4CTA","face":null,"role_id":0,"founder":1}
+2022-10-26 01:53:16,513 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE1OTYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.BtApZcS1MASdEeQruen31jAMKAVxEVfR6ZiJ-U1d0JlF2D4cA_M-pjIWeXtfD5Ve8SEMx-Et1czNTYUzZd_07Q
+2022-10-26 01:53:16,557 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/goods')
+2022-10-26 01:53:16,558 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:53:16,558 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE1OTYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.BtApZcS1MASdEeQruen31jAMKAVxEVfR6ZiJ-U1d0JlF2D4cA_M-pjIWeXtfD5Ve8SEMx-Et1czNTYUzZd_07Q'})
+2022-10-26 01:53:16,558 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', None)
+2022-10-26 01:53:16,558 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:53:16,559 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', {'brand_id': '', 'category_id': 88, 'category_name': '', 'goods_name': '彩虹豆测试88', 'sn': '342435', 'price': '101', 'mktprice': '100', 'cost': '60', 'weight': '1', 'goods_gallery_list': [{'img_id': -1, 'original': 'http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png', 'sort': 0}], 'quantity': 9999999, 'goods_transfee_charge': 1, 'has_changed': 0, 'market_enable': 1, 'template_id': 0, 'exchange': {'category_id': '', 'enable_exchange': 0, 'exchange_money': 0, 'exchange_point': 0}, 'shop_cat_id': 0, 'meta_description': '', 'meta_keywords': '', 'page_title': '', 'goods_params_list': [], 'sku_list': [], 'intro': ''})
+2022-10-26 01:53:16,559 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:53:16,559 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:53:16,718 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:53:16,719 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"goods_id":26711,"goods_name":"彩虹豆**88","sn":"342435","brand_id":null,"category_id":88,"goods_type":"NORMAL","weight":1.0,"market_enable":1,"intro":"","price":101.0,"cost":60.0,"mktprice":100.0,"have_spec":0,"create_time":1666720396,"last_modify":1666720396,"view_count":0,"buy_count":0,"disabled":1,"quantity":9999999,"enable_quantity":9999999,"point":null,"page_title":"彩虹豆测试88","meta_keywords":"彩虹豆测试88","meta_description":"彩虹豆测试88","grade":100.0,"thumbnail":"http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png_300x300.png","big":"http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png_800x800.png","small":"http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png_400x400.png","original":"http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png","seller_id":20,"shop_cat_id":0,"comment_num":0,"template_id":0,"goods_transfee_charge":1,"seller_name":"沙陌的店","is_auth":0,"auth_message":null,"under_message":null,"self_operated":0}
+2022-10-26 01:53:16,843 INFO [apiautotest] [client.py (extract_expr:73] - 接口提取出来的接口响应内容是：26711
+2022-10-26 01:57:25,041 INFO [apiautotest] [client.py (send:61] - 接口信息是:('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:57:25,041 INFO [apiautotest] [client.py (send:61] - 接口信息是:('method', 'post')
+2022-10-26 01:57:25,042 INFO [apiautotest] [client.py (send:61] - 接口信息是:('headers', {'Authorization': None})
+2022-10-26 01:57:25,042 INFO [apiautotest] [client.py (send:61] - 接口信息是:('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:57:25,042 INFO [apiautotest] [client.py (send:61] - 接口信息是:('data', None)
+2022-10-26 01:57:25,042 INFO [apiautotest] [client.py (send:61] - 接口信息是:('json', None)
+2022-10-26 01:57:25,042 INFO [apiautotest] [client.py (send:61] - 接口信息是:('files', None)
+2022-10-26 01:57:25,043 INFO [apiautotest] [client.py (send:62] - 准备开始发起请求
+2022-10-26 01:57:25,285 INFO [apiautotest] [client.py (send:65] - 接口响应状态码是:200
+2022-10-26 01:57:25,286 INFO [apiautotest] [client.py (send:66] - 接口的响应内容是:{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTg0NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.HQvXTxGi3aYKJbOWjaAqzDDleo8kU_7GdD7WpxgN0ZQkUrSrERoBOSFqpUnOXoGPh2HhGPQRXV8kR5S5_yydAg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjQ0NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.xIPl4vlXAuFcJnnauyOKuO8Ju8BWj3Mkkwfym53SNejy9_ketdqSejv1ilNXulPRDLkIns4QpuhJu3ggYgW6RQ","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:57:25,290 INFO [apiautotest] [client.py (send:61] - 接口信息是:('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:57:25,290 INFO [apiautotest] [client.py (send:61] - 接口信息是:('method', 'get')
+2022-10-26 01:57:25,290 INFO [apiautotest] [client.py (send:61] - 接口信息是:('headers', {'Authorization': None})
+2022-10-26 01:57:25,290 INFO [apiautotest] [client.py (send:61] - 接口信息是:('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:57:25,291 INFO [apiautotest] [client.py (send:61] - 接口信息是:('data', None)
+2022-10-26 01:57:25,291 INFO [apiautotest] [client.py (send:61] - 接口信息是:('json', None)
+2022-10-26 01:57:25,291 INFO [apiautotest] [client.py (send:61] - 接口信息是:('files', None)
+2022-10-26 01:57:25,291 INFO [apiautotest] [client.py (send:62] - 准备开始发起请求
+2022-10-26 01:57:25,537 INFO [apiautotest] [client.py (send:65] - 接口响应状态码是:200
+2022-10-26 01:57:25,537 INFO [apiautotest] [client.py (send:66] - 接口的响应内容是:{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE4NDUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.Hj0FerWkuUhzKcg6hXefi4_I6ZralFkwWgGjIMfOAmCvQfyVt-B9sMsJsnaHBA0Q4ihw9ln3H3pdgYimBJLYAA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI0NDUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.gu8gW6O91umVEYUDV5UZ73nSnaZcKnQUytcIB4mqSq2lecUCE1J1GCDfSybETcPTxASkLT0772QULnWcOF2yFw","face":null,"role_id":0,"founder":1}
+2022-10-26 01:57:25,537 INFO [apiautotest] [client.py (extract_expr:82] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE4NDUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.Hj0FerWkuUhzKcg6hXefi4_I6ZralFkwWgGjIMfOAmCvQfyVt-B9sMsJsnaHBA0Q4ihw9ln3H3pdgYimBJLYAA
+2022-10-26 01:57:25,573 INFO [apiautotest] [client.py (send:61] - 接口信息是:('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:57:25,573 INFO [apiautotest] [client.py (send:61] - 接口信息是:('method', 'post')
+2022-10-26 01:57:25,574 INFO [apiautotest] [client.py (send:61] - 接口信息是:('headers', None)
+2022-10-26 01:57:25,574 INFO [apiautotest] [client.py (send:61] - 接口信息是:('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:57:25,574 INFO [apiautotest] [client.py (send:61] - 接口信息是:('data', None)
+2022-10-26 01:57:25,574 INFO [apiautotest] [client.py (send:61] - 接口信息是:('json', None)
+2022-10-26 01:57:25,574 INFO [apiautotest] [client.py (send:61] - 接口信息是:('files', None)
+2022-10-26 01:57:25,574 INFO [apiautotest] [client.py (send:62] - 准备开始发起请求
+2022-10-26 01:57:25,677 INFO [apiautotest] [client.py (send:65] - 接口响应状态码是:200
+2022-10-26 01:57:25,677 INFO [apiautotest] [client.py (send:66] - 接口的响应内容是:{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTg0NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.HQvXTxGi3aYKJbOWjaAqzDDleo8kU_7GdD7WpxgN0ZQkUrSrERoBOSFqpUnOXoGPh2HhGPQRXV8kR5S5_yydAg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjQ0NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.xIPl4vlXAuFcJnnauyOKuO8Ju8BWj3Mkkwfym53SNejy9_ketdqSejv1ilNXulPRDLkIns4QpuhJu3ggYgW6RQ","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:57:25,677 INFO [apiautotest] [client.py (extract_expr:82] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTg0NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.HQvXTxGi3aYKJbOWjaAqzDDleo8kU_7GdD7WpxgN0ZQkUrSrERoBOSFqpUnOXoGPh2HhGPQRXV8kR5S5_yydAg
+2022-10-26 01:57:25,924 INFO [apiautotest] [client.py (extract_expr:82] - 接口的提取出来的响应内容是:yaoyao
+2022-10-26 01:57:25,936 INFO [apiautotest] [client.py (extract_expr:82] - 接口的提取出来的响应内容是:chaichai
+2022-10-26 01:57:25,946 INFO [apiautotest] [client.py (send:61] - 接口信息是:('url', 'http://www.mtxshop.com:7002/trade/carts/buy')
+2022-10-26 01:57:25,946 INFO [apiautotest] [client.py (send:61] - 接口信息是:('method', 'post')
+2022-10-26 01:57:25,947 INFO [apiautotest] [client.py (send:61] - 接口信息是:('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTg0NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.HQvXTxGi3aYKJbOWjaAqzDDleo8kU_7GdD7WpxgN0ZQkUrSrERoBOSFqpUnOXoGPh2HhGPQRXV8kR5S5_yydAg'})
+2022-10-26 01:57:25,947 INFO [apiautotest] [client.py (send:61] - 接口信息是:('params', {'sku_id': 891, 'num': 2})
+2022-10-26 01:57:25,947 INFO [apiautotest] [client.py (send:61] - 接口信息是:('data', None)
+2022-10-26 01:57:25,947 INFO [apiautotest] [client.py (send:61] - 接口信息是:('json', None)
+2022-10-26 01:57:25,947 INFO [apiautotest] [client.py (send:61] - 接口信息是:('files', None)
+2022-10-26 01:57:25,947 INFO [apiautotest] [client.py (send:62] - 准备开始发起请求
+2022-10-26 01:57:26,002 INFO [apiautotest] [client.py (send:65] - 接口响应状态码是:200
+2022-10-26 01:57:26,003 INFO [apiautotest] [client.py (send:66] - 接口的响应内容是:
+2022-10-26 01:57:26,023 INFO [apiautotest] [client.py (send:61] - 接口信息是:('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:57:26,023 INFO [apiautotest] [client.py (send:61] - 接口信息是:('method', 'post')
+2022-10-26 01:57:26,023 INFO [apiautotest] [client.py (send:61] - 接口信息是:('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTg0NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.HQvXTxGi3aYKJbOWjaAqzDDleo8kU_7GdD7WpxgN0ZQkUrSrERoBOSFqpUnOXoGPh2HhGPQRXV8kR5S5_yydAg'})
+2022-10-26 01:57:26,024 INFO [apiautotest] [client.py (send:61] - 接口信息是:('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:57:26,024 INFO [apiautotest] [client.py (send:61] - 接口信息是:('data', None)
+2022-10-26 01:57:26,024 INFO [apiautotest] [client.py (send:61] - 接口信息是:('json', None)
+2022-10-26 01:57:26,024 INFO [apiautotest] [client.py (send:61] - 接口信息是:('files', None)
+2022-10-26 01:57:26,024 INFO [apiautotest] [client.py (send:62] - 准备开始发起请求
+2022-10-26 01:57:26,132 INFO [apiautotest] [client.py (send:65] - 接口响应状态码是:200
+2022-10-26 01:57:26,132 INFO [apiautotest] [client.py (send:66] - 接口的响应内容是:{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTg0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.6tSQ1wPo4tzNHKsKm1ePXj_v-6Mh9zjTGp5_FmcgVrAw9RteZi2YB_-H7XhIALhHge3EPHYTPdZoYCfYLIOnew","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjQ0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.JHG4E-MVVQkU1f4ncStWajPY4On0m_iURAr42UYwOnZjiWbSmPvALrJPdQeBrF_yBuH3yRgyBbpQu9tvOhzfig","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:57:26,134 INFO [apiautotest] [client.py (send:61] - 接口信息是:('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:57:26,134 INFO [apiautotest] [client.py (send:61] - 接口信息是:('method', 'get')
+2022-10-26 01:57:26,134 INFO [apiautotest] [client.py (send:61] - 接口信息是:('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE4NDUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.Hj0FerWkuUhzKcg6hXefi4_I6ZralFkwWgGjIMfOAmCvQfyVt-B9sMsJsnaHBA0Q4ihw9ln3H3pdgYimBJLYAA'})
+2022-10-26 01:57:26,135 INFO [apiautotest] [client.py (send:61] - 接口信息是:('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:57:26,135 INFO [apiautotest] [client.py (send:61] - 接口信息是:('data', None)
+2022-10-26 01:57:26,135 INFO [apiautotest] [client.py (send:61] - 接口信息是:('json', None)
+2022-10-26 01:57:26,135 INFO [apiautotest] [client.py (send:61] - 接口信息是:('files', None)
+2022-10-26 01:57:26,135 INFO [apiautotest] [client.py (send:62] - 准备开始发起请求
+2022-10-26 01:57:26,271 INFO [apiautotest] [client.py (send:65] - 接口响应状态码是:200
+2022-10-26 01:57:26,271 INFO [apiautotest] [client.py (send:66] - 接口的响应内容是:{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE4NDYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.5jawAHJue2K_sljHTHY6f0-aoZo-MKHVfp_c8EJDhGMf7K-DvxC1YsoRM49uaW_3XXINdu36IxPC1rxsXEbFwg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI0NDYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.m663sINH9LXkV0uQE-Yg6t1E6u-ER8U11u_UH86_lZTV0e0oupZ0uT5C26-p0Yy6Dlrh3nrNiddG32evrAiz7A","face":null,"role_id":0,"founder":1}
+2022-10-26 01:57:26,272 INFO [apiautotest] [client.py (extract_expr:82] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE4NDYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.5jawAHJue2K_sljHTHY6f0-aoZo-MKHVfp_c8EJDhGMf7K-DvxC1YsoRM49uaW_3XXINdu36IxPC1rxsXEbFwg
+2022-10-26 01:57:26,309 INFO [apiautotest] [client.py (send:61] - 接口信息是:('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:57:26,309 INFO [apiautotest] [client.py (send:61] - 接口信息是:('method', 'post')
+2022-10-26 01:57:26,309 INFO [apiautotest] [client.py (send:61] - 接口信息是:('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTg0NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.HQvXTxGi3aYKJbOWjaAqzDDleo8kU_7GdD7WpxgN0ZQkUrSrERoBOSFqpUnOXoGPh2HhGPQRXV8kR5S5_yydAg'})
+2022-10-26 01:57:26,309 INFO [apiautotest] [client.py (send:61] - 接口信息是:('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:57:26,309 INFO [apiautotest] [client.py (send:61] - 接口信息是:('data', None)
+2022-10-26 01:57:26,310 INFO [apiautotest] [client.py (send:61] - 接口信息是:('json', None)
+2022-10-26 01:57:26,310 INFO [apiautotest] [client.py (send:61] - 接口信息是:('files', None)
+2022-10-26 01:57:26,310 INFO [apiautotest] [client.py (send:62] - 准备开始发起请求
+2022-10-26 01:57:26,424 INFO [apiautotest] [client.py (send:65] - 接口响应状态码是:200
+2022-10-26 01:57:26,424 INFO [apiautotest] [client.py (send:66] - 接口的响应内容是:{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTg0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.6tSQ1wPo4tzNHKsKm1ePXj_v-6Mh9zjTGp5_FmcgVrAw9RteZi2YB_-H7XhIALhHge3EPHYTPdZoYCfYLIOnew","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjQ0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.JHG4E-MVVQkU1f4ncStWajPY4On0m_iURAr42UYwOnZjiWbSmPvALrJPdQeBrF_yBuH3yRgyBbpQu9tvOhzfig","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:57:26,425 INFO [apiautotest] [client.py (extract_expr:82] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTg0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.6tSQ1wPo4tzNHKsKm1ePXj_v-6Mh9zjTGp5_FmcgVrAw9RteZi2YB_-H7XhIALhHge3EPHYTPdZoYCfYLIOnew
+2022-10-26 01:57:26,537 INFO [apiautotest] [client.py (extract_expr:82] - 接口的提取出来的响应内容是:yaoyao
+2022-10-26 01:57:26,548 INFO [apiautotest] [client.py (extract_expr:82] - 接口的提取出来的响应内容是:chaichai
+2022-10-26 01:57:26,559 INFO [apiautotest] [client.py (send:61] - 接口信息是:('url', 'http://www.mtxshop.com:7002/trade/carts/buy')
+2022-10-26 01:57:26,559 INFO [apiautotest] [client.py (send:61] - 接口信息是:('method', 'post')
+2022-10-26 01:57:26,559 INFO [apiautotest] [client.py (send:61] - 接口信息是:('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTg0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.6tSQ1wPo4tzNHKsKm1ePXj_v-6Mh9zjTGp5_FmcgVrAw9RteZi2YB_-H7XhIALhHge3EPHYTPdZoYCfYLIOnew'})
+2022-10-26 01:57:26,559 INFO [apiautotest] [client.py (send:61] - 接口信息是:('params', {'sku_id': 891, 'num': 2})
+2022-10-26 01:57:26,560 INFO [apiautotest] [client.py (send:61] - 接口信息是:('data', None)
+2022-10-26 01:57:26,560 INFO [apiautotest] [client.py (send:61] - 接口信息是:('json', None)
+2022-10-26 01:57:26,560 INFO [apiautotest] [client.py (send:61] - 接口信息是:('files', None)
+2022-10-26 01:57:26,560 INFO [apiautotest] [client.py (send:62] - 准备开始发起请求
+2022-10-26 01:57:26,609 INFO [apiautotest] [client.py (send:65] - 接口响应状态码是:200
+2022-10-26 01:57:26,609 INFO [apiautotest] [client.py (send:66] - 接口的响应内容是:
+2022-10-26 01:59:23,516 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:59:23,517 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:59:23,517 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:59:23,517 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:59:23,517 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:59:23,518 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:59:23,518 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:59:23,518 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:59:23,766 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:59:23,767 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTk2MywidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.7SL-cfcQbPJRI5Ubv4Bz43g1MhQersG6a3IkmrPxuituW05G5ezez0F5EAEugql8hoZCDDK0-MMWBtYAJxroAw","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjU2MywidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.WV0JF8Y_hTMKXTtGYJAca3LA86bsLI4-8xEwWEN__YC15ubO-3WwnP7xO5_4kXTRJvn9tfIE1CJMML0ZOjRRfQ","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:59:23,769 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:59:23,770 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:59:23,770 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 01:59:23,770 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:59:23,770 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:59:23,770 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:59:23,770 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:59:23,770 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:59:24,012 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:59:24,012 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE5NjQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.wuLgjTYhKMwRJC-4tJ3j9-vajuinepT9-ne15RoRyHcMRjYwo3v5ZU0MHMMoYDpPyS8JByDm_PNoUdBqMY0E8w","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI1NjQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.vN1XtAR5UGUFnnfcbRlVix3faR6iyfFZYwVknIpPje2Zxv0_AYhOniTCUqIoGbi9lIpWUhxtXhV0M0WBiCoYPg","face":null,"role_id":0,"founder":1}
+2022-10-26 01:59:24,012 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE5NjQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.wuLgjTYhKMwRJC-4tJ3j9-vajuinepT9-ne15RoRyHcMRjYwo3v5ZU0MHMMoYDpPyS8JByDm_PNoUdBqMY0E8w
+2022-10-26 01:59:24,051 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:59:24,051 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:59:24,051 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 01:59:24,051 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:59:24,051 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:59:24,051 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:59:24,051 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:59:24,052 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:59:24,252 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 01:59:24,252 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 01:59:24,369 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:59:24,369 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:59:24,369 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTk2MywidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.7SL-cfcQbPJRI5Ubv4Bz43g1MhQersG6a3IkmrPxuituW05G5ezez0F5EAEugql8hoZCDDK0-MMWBtYAJxroAw'})
+2022-10-26 01:59:24,369 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:59:24,369 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:59:24,369 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:59:24,369 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:59:24,369 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:59:24,485 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:59:24,485 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTk2NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.3eM1xCWWHA_D1RZ4AuXXXc-VyDB7g-hY_dwvJzfQdFx8W7tjc8fYIFBPK6hREW6bcczJzzGv8f7p2ArUpUcpPQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjU2NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.ey4tEi-WSulJzQeCvPoIYMKNfdxCbEHEna2rxamSigotd3eMdHZYAMMltKvbkhG_ZUo_VK0-szxQ82xORd0G9w","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 01:59:24,487 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 01:59:24,488 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 01:59:24,488 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE5NjQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.wuLgjTYhKMwRJC-4tJ3j9-vajuinepT9-ne15RoRyHcMRjYwo3v5ZU0MHMMoYDpPyS8JByDm_PNoUdBqMY0E8w'})
+2022-10-26 01:59:24,488 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 01:59:24,488 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:59:24,488 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:59:24,488 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:59:24,489 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:59:24,601 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 01:59:24,601 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE5NjQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.wuLgjTYhKMwRJC-4tJ3j9-vajuinepT9-ne15RoRyHcMRjYwo3v5ZU0MHMMoYDpPyS8JByDm_PNoUdBqMY0E8w","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI1NjQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.vN1XtAR5UGUFnnfcbRlVix3faR6iyfFZYwVknIpPje2Zxv0_AYhOniTCUqIoGbi9lIpWUhxtXhV0M0WBiCoYPg","face":null,"role_id":0,"founder":1}
+2022-10-26 01:59:24,601 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE5NjQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.wuLgjTYhKMwRJC-4tJ3j9-vajuinepT9-ne15RoRyHcMRjYwo3v5ZU0MHMMoYDpPyS8JByDm_PNoUdBqMY0E8w
+2022-10-26 01:59:24,631 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 01:59:24,631 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 01:59:24,631 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 01:59:24,631 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 01:59:24,631 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 01:59:24,631 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 01:59:24,632 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 01:59:24,632 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 01:59:24,840 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 01:59:24,840 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 02:05:46,377 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:05:46,378 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:05:46,378 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 02:05:46,378 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:05:46,378 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:05:46,378 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:05:46,378 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:05:46,378 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:05:46,650 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:05:46,651 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjM0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.skRoql1xI6etoZFEKBB14UUfG_1Db14sQm-2acY2Ek_Z6KNtIIPib9px1QmuCboIduTEpTyKPeV7NuNSJvd3Wg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjk0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.LY378SzBhGpG3lVr1dKEHf8DlI40kbXcc8o532XZxg4k3XUsnG7PDFS5zF5_a4pUHaiUqRUZLD6r9is_IPCECg","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:05:46,653 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 02:05:46,653 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 02:05:46,654 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 02:05:46,654 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:05:46,654 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:05:46,654 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:05:46,654 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:05:46,654 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:05:46,933 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:05:46,933 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjIzNDcsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.wG5TjPZM0QEC-7LIziEFzi0gkSonj7s69ZtcFaYrSJuOzxdEhdBYqHpMncEl159vUmd5OhP3lpODowZi4N410A","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI5NDcsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.D3yg6M23yeS6k276TACaVTsXQpGyya0AG3Cg0YLQY1UDmxSVetnTpO0GAv7KLUylUtFs5NJa9PsWzrU5uVTpNQ","face":null,"role_id":0,"founder":1}
+2022-10-26 02:05:46,933 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjIzNDcsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.wG5TjPZM0QEC-7LIziEFzi0gkSonj7s69ZtcFaYrSJuOzxdEhdBYqHpMncEl159vUmd5OhP3lpODowZi4N410A
+2022-10-26 02:05:46,963 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:05:46,963 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:05:46,963 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 02:05:46,964 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 02:05:46,964 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:05:46,964 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:05:46,964 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:05:46,964 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:05:48,179 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 02:05:48,180 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 02:05:48,328 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:05:48,328 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:05:48,328 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjM0NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.skRoql1xI6etoZFEKBB14UUfG_1Db14sQm-2acY2Ek_Z6KNtIIPib9px1QmuCboIduTEpTyKPeV7NuNSJvd3Wg'})
+2022-10-26 02:05:48,328 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:05:48,328 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:05:48,328 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:05:48,328 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:05:48,329 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:05:48,432 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:05:48,432 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjM0OCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.qIeYkUAHLGYbvvaK172CQsqPhjGMGbPZJHhCXXnp9QD4xFzVhVbqNhs1FGz_usr-O2xCx1mZsKiCd29RP2dfEg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjk0OCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.3uIfn6m83mKJ9btiArWULRC9XTg4l9HWlOa6ZrlpaP-6DIP75zrUncWMiumsAMJUfboJ4Jp1S72d-u1PXJeR5g","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:05:48,435 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 02:05:48,436 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 02:05:48,436 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjIzNDcsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.wG5TjPZM0QEC-7LIziEFzi0gkSonj7s69ZtcFaYrSJuOzxdEhdBYqHpMncEl159vUmd5OhP3lpODowZi4N410A'})
+2022-10-26 02:05:48,436 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:05:48,437 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:05:48,437 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:05:48,437 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:05:48,438 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:05:48,561 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:05:48,561 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjIzNDgsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.gsHdSnfGHI1HAUwxHGi2eLogveRZsOvFdKxAGSs8MRxjFQ_BByFfSahjupdtjI1ij_6CG_vn79-ZHAFvZtv-JQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI5NDgsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.m0V3GCofewHheusXVWGmyafHZE9wyM7k1DcoAYIIFCiNY44wVhRREpo2YlWbDAWJvsaU__6RG8ujaotWFiW8tQ","face":null,"role_id":0,"founder":1}
+2022-10-26 02:05:48,562 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjIzNDgsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.gsHdSnfGHI1HAUwxHGi2eLogveRZsOvFdKxAGSs8MRxjFQ_BByFfSahjupdtjI1ij_6CG_vn79-ZHAFvZtv-JQ
+2022-10-26 02:05:48,617 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:05:48,617 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:05:48,617 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 02:05:48,617 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 02:05:48,617 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:05:48,618 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:05:48,618 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:05:48,618 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:05:48,813 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 02:05:48,813 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 02:10:39,700 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:10:39,700 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:10:39,701 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 02:10:39,701 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:10:39,701 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:10:39,701 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:10:39,701 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:10:39,702 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:10:39,967 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:10:39,967 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjY0MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.QVaJ3ZdtMPfqWdZGHcBcmtPtrCj-2DkN5Zjd0SMyQM209TCJLykpS_a0DSvnyRpcA1Kg2GUuhTube0KTWECmOA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI0MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.Pq59mj6X2YKSDOiBgxqARnvrKj6OEQzWeCpBlynFDoswiGf0NHnOSBb89vJEnnhTawjgYmuIyEcNUhzpibCZ4w","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:10:39,972 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 02:10:39,972 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 02:10:39,972 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 02:10:39,972 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:10:39,972 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:10:39,973 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:10:39,973 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:10:39,973 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:10:40,210 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:10:40,210 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI2NDAsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.JHyf4bvA4dz30CxAyclcegrLyo1Rl7LtBvod2P6dJeeWkj6GcuLu-ntC9XiQ14qZVZgc3pfBlqpJfV__sbHjDg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMyNDAsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.eeEvy-y2xDIZdq7hDANnlgfrZzIiJ2zdzquURYaA6C-PebCWB4yrJu8GHR0AdG0MK-EIPaFkRKd1syn5HgNs8g","face":null,"role_id":0,"founder":1}
+2022-10-26 02:10:40,210 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI2NDAsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.JHyf4bvA4dz30CxAyclcegrLyo1Rl7LtBvod2P6dJeeWkj6GcuLu-ntC9XiQ14qZVZgc3pfBlqpJfV__sbHjDg
+2022-10-26 02:10:40,258 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:10:40,258 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:10:40,258 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 02:10:40,258 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 02:10:40,258 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:10:40,259 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:10:40,259 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:10:40,259 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:10:40,366 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:10:40,366 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjY0MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.QVaJ3ZdtMPfqWdZGHcBcmtPtrCj-2DkN5Zjd0SMyQM209TCJLykpS_a0DSvnyRpcA1Kg2GUuhTube0KTWECmOA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI0MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.Pq59mj6X2YKSDOiBgxqARnvrKj6OEQzWeCpBlynFDoswiGf0NHnOSBb89vJEnnhTawjgYmuIyEcNUhzpibCZ4w","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:10:40,367 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjY0MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.QVaJ3ZdtMPfqWdZGHcBcmtPtrCj-2DkN5Zjd0SMyQM209TCJLykpS_a0DSvnyRpcA1Kg2GUuhTube0KTWECmOA
+2022-10-26 02:10:40,634 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:yaoyao
+2022-10-26 02:10:40,646 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:chaichai
+2022-10-26 02:10:40,656 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/trade/carts/buy')
+2022-10-26 02:10:40,657 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:10:40,657 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjY0MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.QVaJ3ZdtMPfqWdZGHcBcmtPtrCj-2DkN5Zjd0SMyQM209TCJLykpS_a0DSvnyRpcA1Kg2GUuhTube0KTWECmOA'})
+2022-10-26 02:10:40,657 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'sku_id': 891, 'num': 2})
+2022-10-26 02:10:40,658 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:10:40,658 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:10:40,658 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:10:40,658 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:10:40,706 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:10:40,707 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：
+2022-10-26 02:10:40,730 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:10:40,730 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:10:40,730 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjY0MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.QVaJ3ZdtMPfqWdZGHcBcmtPtrCj-2DkN5Zjd0SMyQM209TCJLykpS_a0DSvnyRpcA1Kg2GUuhTube0KTWECmOA'})
+2022-10-26 02:10:40,730 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:10:40,731 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:10:40,731 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:10:40,731 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:10:40,731 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:10:40,854 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:10:40,854 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjY0MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.QVaJ3ZdtMPfqWdZGHcBcmtPtrCj-2DkN5Zjd0SMyQM209TCJLykpS_a0DSvnyRpcA1Kg2GUuhTube0KTWECmOA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI0MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.Pq59mj6X2YKSDOiBgxqARnvrKj6OEQzWeCpBlynFDoswiGf0NHnOSBb89vJEnnhTawjgYmuIyEcNUhzpibCZ4w","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:10:40,858 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 02:10:40,858 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 02:10:40,858 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI2NDAsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.JHyf4bvA4dz30CxAyclcegrLyo1Rl7LtBvod2P6dJeeWkj6GcuLu-ntC9XiQ14qZVZgc3pfBlqpJfV__sbHjDg'})
+2022-10-26 02:10:40,858 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:10:40,859 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:10:40,859 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:10:40,859 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:10:40,859 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:10:40,980 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:10:40,981 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI2NDEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.yb6KXnJaF25ryFuPQz8rGzLojvNKC-VxQxvXfhX5WlOfjiYgNpjsJSIZXIaX8vjRQBG93JFqrWFVeETNQaioLQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMyNDEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.NOA97F-g9smqjFrNf72-Yk10YDqOYwqzq-T42xUTBwB4FGRgVUP4yQ01JaiM_Tkhz9HFEv9NkL6GP-jecQebMw","face":null,"role_id":0,"founder":1}
+2022-10-26 02:10:40,981 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI2NDEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.yb6KXnJaF25ryFuPQz8rGzLojvNKC-VxQxvXfhX5WlOfjiYgNpjsJSIZXIaX8vjRQBG93JFqrWFVeETNQaioLQ
+2022-10-26 02:10:41,039 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:10:41,039 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:10:41,040 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjY0MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.QVaJ3ZdtMPfqWdZGHcBcmtPtrCj-2DkN5Zjd0SMyQM209TCJLykpS_a0DSvnyRpcA1Kg2GUuhTube0KTWECmOA'})
+2022-10-26 02:10:41,040 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 02:10:41,040 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:10:41,040 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:10:41,040 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:10:41,041 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:10:41,150 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:10:41,151 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjY0MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.5DXvb439TcJgcQKJQZwWhUBbXH6Q2KtiIDoHRH0WPPVj_FIrUSLcPbE8WZbhzfeAd9i-rG2x2gi4x_5lSREFtA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI0MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.yhdMGLdoKPaM79Jei6Z5nVSq25SgQS9h1_fy1LQuaNiWjs43Q4up3f8fgrx1LWOYClx5xhyXseeD8nyB2dhSzQ","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:10:41,151 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjY0MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.5DXvb439TcJgcQKJQZwWhUBbXH6Q2KtiIDoHRH0WPPVj_FIrUSLcPbE8WZbhzfeAd9i-rG2x2gi4x_5lSREFtA
+2022-10-26 02:10:41,262 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:yaoyao
+2022-10-26 02:10:41,287 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:chaichai
+2022-10-26 02:10:41,299 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/trade/carts/buy')
+2022-10-26 02:10:41,299 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:10:41,299 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjY0MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.5DXvb439TcJgcQKJQZwWhUBbXH6Q2KtiIDoHRH0WPPVj_FIrUSLcPbE8WZbhzfeAd9i-rG2x2gi4x_5lSREFtA'})
+2022-10-26 02:10:41,299 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'sku_id': 891, 'num': 2})
+2022-10-26 02:10:41,300 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:10:41,300 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:10:41,300 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:10:41,300 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:10:41,342 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:10:41,343 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：
+2022-10-26 02:12:29,895 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:12:29,895 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:12:29,896 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 02:12:29,896 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:12:29,896 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:12:29,896 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:12:29,896 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:12:29,896 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:12:30,176 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:12:30,176 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjc1MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.drDR_1BjJwKEaDqg3Pxz7pfQVMdgFE3enB9ex6TRIRxvlRCBwLS8gbFv_SOmeJIvZqf_pe-T2887vVRI8LA70Q","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzM1MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.YIZ9_QBCTgOKejFesAoB9laszzmoKl_PqqAZSXodG58q49orJ3pO2jm1CAlVC8hJx_bioQhCwfbYbpHaqze0Yg","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:12:30,179 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 02:12:30,180 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 02:12:30,180 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 02:12:30,180 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:12:30,180 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:12:30,180 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:12:30,180 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:12:30,180 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:12:30,448 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:12:30,448 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI3NTAsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.Pna4NtNN71gQjtRvkYumHX_otSW2LG5C7S4RoYSCiA4vDJka46Noq5AljDUVX9tm3gQPlPODo1xalGd6nKMK-Q","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMzNTAsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.bfdmArpfliw6X72MRA8kMgLZoFQEcGgmlVjj3YMUgWBGgYv6bBo7Qc3mOdI216w4E5IaAEvupMdQ51xL1R5vHA","face":null,"role_id":0,"founder":1}
+2022-10-26 02:12:30,448 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI3NTAsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.Pna4NtNN71gQjtRvkYumHX_otSW2LG5C7S4RoYSCiA4vDJka46Noq5AljDUVX9tm3gQPlPODo1xalGd6nKMK-Q
+2022-10-26 02:12:30,498 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:12:30,498 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:12:30,498 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 02:12:30,499 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 02:12:30,499 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:12:30,499 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:12:30,499 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:12:30,499 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:12:30,813 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 02:12:30,813 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 02:12:30,960 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:12:30,961 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:12:30,961 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjc1MCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.drDR_1BjJwKEaDqg3Pxz7pfQVMdgFE3enB9ex6TRIRxvlRCBwLS8gbFv_SOmeJIvZqf_pe-T2887vVRI8LA70Q'})
+2022-10-26 02:12:30,961 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:12:30,962 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:12:30,962 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:12:30,962 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:12:30,963 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:12:31,067 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:12:31,067 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjc1MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.QAhVYa8x9zlJXkNGHOEsaaOoaeJsT8OCFRMgCPE81mbgJRv072uq8XRAMLed7BwGQiaWESh3WQ3zl7nBpQvxKQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzM1MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.kllS6VwQUiDS33Gxr04khg4Q3-Q5LhEeTQ-7qOv9r1ENitpr3hCVlDqJg-JvBSoCHGVahl7w80ciDvp5G0u8rw","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:12:31,070 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 02:12:31,070 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 02:12:31,070 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI3NTAsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.Pna4NtNN71gQjtRvkYumHX_otSW2LG5C7S4RoYSCiA4vDJka46Noq5AljDUVX9tm3gQPlPODo1xalGd6nKMK-Q'})
+2022-10-26 02:12:31,070 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:12:31,070 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:12:31,070 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:12:31,071 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:12:31,071 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:12:31,184 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:12:31,184 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI3NTEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.GcfNvXjDcqJDpySYTjDrCU5NBmGXH9UAKLxoiO1wPaWjYecpcfFW9JH40quwvWQh_lNfPKkTSbRuZdLEnQqJJA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMzNTEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.m5GtKG7lZRGRIuzvRTjFjBtX7fsdzXICcUb_21KOYRlY0J3r8SIv742TvD6PoBqvjsMZQLNDQ8rFrgnPV50Ndw","face":null,"role_id":0,"founder":1}
+2022-10-26 02:12:31,185 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjI3NTEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.GcfNvXjDcqJDpySYTjDrCU5NBmGXH9UAKLxoiO1wPaWjYecpcfFW9JH40quwvWQh_lNfPKkTSbRuZdLEnQqJJA
+2022-10-26 02:12:31,235 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:12:31,235 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:12:31,236 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 02:12:31,236 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': '1bc29b36f623ba82aaf6724fd3b16718', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 02:12:31,236 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:12:31,236 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:12:31,236 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:12:31,236 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:12:31,429 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：500
+2022-10-26 02:12:31,430 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"code":"107","message":"账号密码错误！"}
+2022-10-26 02:20:54,062 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:20:54,062 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:20:54,062 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 02:20:54,062 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:20:54,063 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:20:54,063 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:20:54,063 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:20:54,063 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:20:54,308 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:20:54,308 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI1NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.fvTLb75K17772zYx-LRdqk-mWFL0D3AqOuF6BuuOX_ZZ8twqBU2EJOKXskxWvnFUj7huRd6BskspAixky7hh8Q","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzg1NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.xmOh79V9THpo8ld1I0qBU4sMU9s4B0c6t09s0KhBcrR9FiuQbmu07U8FdcejMlizPqdPED9jHkhZ3IbTjs_IPA","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:20:54,311 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 02:20:54,311 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 02:20:54,311 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 02:20:54,311 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:20:54,311 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:20:54,311 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:20:54,311 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:20:54,311 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:20:54,562 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:20:54,563 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMyNTQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.XN1jdGt5GEg5sP0Mt-B0v85RRmu1dnTKZa5z9AkK5GFrXoXVbBAGIm8uvGxMOUvTumn_yaylnQgiUCdjE5mNNQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjM4NTQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.b0zxSaT6UkQ7glpkzJiL-O02LUlWDVXmt87x5WTNE_KTnXO-F6dRWPUrjhkdBIQ9WeVsLjw-06-YnhRa0FZ7EQ","face":null,"role_id":0,"founder":1}
+2022-10-26 02:20:54,563 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMyNTQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.XN1jdGt5GEg5sP0Mt-B0v85RRmu1dnTKZa5z9AkK5GFrXoXVbBAGIm8uvGxMOUvTumn_yaylnQgiUCdjE5mNNQ
+2022-10-26 02:20:54,624 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:20:54,625 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:20:54,625 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 02:20:54,625 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 02:20:54,625 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:20:54,625 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:20:54,625 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:20:54,625 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:20:54,732 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:20:54,732 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI1NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.fvTLb75K17772zYx-LRdqk-mWFL0D3AqOuF6BuuOX_ZZ8twqBU2EJOKXskxWvnFUj7huRd6BskspAixky7hh8Q","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzg1NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.xmOh79V9THpo8ld1I0qBU4sMU9s4B0c6t09s0KhBcrR9FiuQbmu07U8FdcejMlizPqdPED9jHkhZ3IbTjs_IPA","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:20:54,733 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI1NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.fvTLb75K17772zYx-LRdqk-mWFL0D3AqOuF6BuuOX_ZZ8twqBU2EJOKXskxWvnFUj7huRd6BskspAixky7hh8Q
+2022-10-26 02:20:54,944 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:yaoyao
+2022-10-26 02:20:54,953 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:chaichai
+2022-10-26 02:20:54,961 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/trade/carts/buy')
+2022-10-26 02:20:54,961 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:20:54,961 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI1NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.fvTLb75K17772zYx-LRdqk-mWFL0D3AqOuF6BuuOX_ZZ8twqBU2EJOKXskxWvnFUj7huRd6BskspAixky7hh8Q'})
+2022-10-26 02:20:54,961 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'sku_id': 891, 'num': 2})
+2022-10-26 02:20:54,961 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:20:54,961 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:20:54,962 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:20:54,962 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:20:55,008 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:20:55,008 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：
+2022-10-26 02:20:55,026 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:20:55,026 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:20:55,026 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI1NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.fvTLb75K17772zYx-LRdqk-mWFL0D3AqOuF6BuuOX_ZZ8twqBU2EJOKXskxWvnFUj7huRd6BskspAixky7hh8Q'})
+2022-10-26 02:20:55,026 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:20:55,026 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:20:55,026 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:20:55,026 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:20:55,026 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:20:55,133 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:20:55,134 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI1NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.cFNwBrV3SnFQ21I6WCpOluPOVVY76KacPrIKN-no1xInrR4YWRhNaa2cD-dn2yjf7sWdJd6UgWhlyqXSa6Z-Cg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzg1NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.t1Nk9-RYcIyoABkzbhQe7_pFsfGey79t0AMJOYEWU6-gpSyLBYrr1bHB-esTG58qMR47fkbhm8oEQ3wPCXposw","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:20:55,138 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 02:20:55,139 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 02:20:55,139 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMyNTQsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.XN1jdGt5GEg5sP0Mt-B0v85RRmu1dnTKZa5z9AkK5GFrXoXVbBAGIm8uvGxMOUvTumn_yaylnQgiUCdjE5mNNQ'})
+2022-10-26 02:20:55,139 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:20:55,139 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:20:55,140 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:20:55,140 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:20:55,140 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:20:55,265 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:20:55,266 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMyNTUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.l1bBQ-SezJAV0CHXP6s8xTJsxEx9eArshyO0qPfaRLGzofDkVyzoGdwj-3pZoOp5hLy9Tk3zy3VjQbPL9GiF7A","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjM4NTUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.RqjkG_tMy_Q5Kw23w7AIY5-pq2Z9UH0ImbU-5w7FxJjdLxDjMvyPUm-dWOWWAXyok2YhjWCLFoGPKDnHC8zm9A","face":null,"role_id":0,"founder":1}
+2022-10-26 02:20:55,266 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMyNTUsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.l1bBQ-SezJAV0CHXP6s8xTJsxEx9eArshyO0qPfaRLGzofDkVyzoGdwj-3pZoOp5hLy9Tk3zy3VjQbPL9GiF7A
+2022-10-26 02:20:55,328 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:20:55,328 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:20:55,328 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI1NCwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.fvTLb75K17772zYx-LRdqk-mWFL0D3AqOuF6BuuOX_ZZ8twqBU2EJOKXskxWvnFUj7huRd6BskspAixky7hh8Q'})
+2022-10-26 02:20:55,329 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 02:20:55,329 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:20:55,329 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:20:55,329 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:20:55,329 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:20:55,415 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:20:55,416 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI1NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.cFNwBrV3SnFQ21I6WCpOluPOVVY76KacPrIKN-no1xInrR4YWRhNaa2cD-dn2yjf7sWdJd6UgWhlyqXSa6Z-Cg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzg1NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.t1Nk9-RYcIyoABkzbhQe7_pFsfGey79t0AMJOYEWU6-gpSyLBYrr1bHB-esTG58qMR47fkbhm8oEQ3wPCXposw","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:20:55,416 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI1NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.cFNwBrV3SnFQ21I6WCpOluPOVVY76KacPrIKN-no1xInrR4YWRhNaa2cD-dn2yjf7sWdJd6UgWhlyqXSa6Z-Cg
+2022-10-26 02:20:55,551 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:yaoyao
+2022-10-26 02:20:55,580 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:chaichai
+2022-10-26 02:20:55,599 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/trade/carts/buy')
+2022-10-26 02:20:55,599 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:20:55,600 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzI1NSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.cFNwBrV3SnFQ21I6WCpOluPOVVY76KacPrIKN-no1xInrR4YWRhNaa2cD-dn2yjf7sWdJd6UgWhlyqXSa6Z-Cg'})
+2022-10-26 02:20:55,600 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'sku_id': 891, 'num': 2})
+2022-10-26 02:20:55,600 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:20:55,600 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:20:55,600 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:20:55,601 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:20:55,651 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:20:55,652 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：
+2022-10-26 02:22:21,276 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:22:21,276 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:22:21,276 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 02:22:21,276 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:22:21,277 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:22:21,277 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:22:21,277 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:22:21,277 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:22:21,414 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:22:21,415 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzM0MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.pXZPcoBPdUMogsLRmdGHPkhdv0ruWwPWy4jc8x7WgbCIGCNW0O8Ls76BbLzBuPoUbBZIQhDLKnDMDg0wJnOGtA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzk0MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.mHl_f659TXvdAY8eTwb1_vmNpkhkITAmaGJZ104Dmpaw7LYRsePFnlW9_yrsz6mUpTzGDOi8tlJzdJ_rq-cKuQ","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:22:21,417 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 02:22:21,417 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 02:22:21,418 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': None})
+2022-10-26 02:22:21,418 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:22:21,418 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:22:21,418 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:22:21,418 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:22:21,418 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:22:21,651 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:22:21,652 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMzNDEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.To2I_7gOSfJUTmRS2x-oH-XiNldlt7Re1HSgyVctp4JGM31BRb7zF5fo82Su35Qt8kQfsjGqHl5PXVaN4Sh6sA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjM5NDEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.3aiGkd9i4tid3QySJOGpNsIsehfONF0ypYf-yNt-u6zM_D8RA3dClavSyUUMk6pSu3OPIXfz4YNVzRYQ1Jp7JQ","face":null,"role_id":0,"founder":1}
+2022-10-26 02:22:21,653 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMzNDEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.To2I_7gOSfJUTmRS2x-oH-XiNldlt7Re1HSgyVctp4JGM31BRb7zF5fo82Su35Qt8kQfsjGqHl5PXVaN4Sh6sA
+2022-10-26 02:22:21,704 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:22:21,704 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:22:21,704 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', None)
+2022-10-26 02:22:21,704 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 02:22:21,705 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:22:21,706 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:22:21,706 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:22:21,706 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:22:21,814 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:22:21,814 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzM0MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.pXZPcoBPdUMogsLRmdGHPkhdv0ruWwPWy4jc8x7WgbCIGCNW0O8Ls76BbLzBuPoUbBZIQhDLKnDMDg0wJnOGtA","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzk0MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.mHl_f659TXvdAY8eTwb1_vmNpkhkITAmaGJZ104Dmpaw7LYRsePFnlW9_yrsz6mUpTzGDOi8tlJzdJ_rq-cKuQ","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:22:21,815 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzM0MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.pXZPcoBPdUMogsLRmdGHPkhdv0ruWwPWy4jc8x7WgbCIGCNW0O8Ls76BbLzBuPoUbBZIQhDLKnDMDg0wJnOGtA
+2022-10-26 02:22:22,043 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:yaoyao
+2022-10-26 02:22:22,072 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:chaichai
+2022-10-26 02:22:22,094 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/trade/carts/buy')
+2022-10-26 02:22:22,095 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:22:22,095 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzM0MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.pXZPcoBPdUMogsLRmdGHPkhdv0ruWwPWy4jc8x7WgbCIGCNW0O8Ls76BbLzBuPoUbBZIQhDLKnDMDg0wJnOGtA'})
+2022-10-26 02:22:22,095 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'sku_id': 891, 'num': 2})
+2022-10-26 02:22:22,095 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:22:22,095 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:22:22,096 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:22:22,096 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:22:22,140 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:22:22,141 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：
+2022-10-26 02:22:22,169 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:22:22,170 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:22:22,170 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzM0MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.pXZPcoBPdUMogsLRmdGHPkhdv0ruWwPWy4jc8x7WgbCIGCNW0O8Ls76BbLzBuPoUbBZIQhDLKnDMDg0wJnOGtA'})
+2022-10-26 02:22:22,171 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:22:22,171 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:22:22,171 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:22:22,172 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:22:22,172 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:22:22,309 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:22:22,309 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzM0MiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.g223dPB-BsT_GdWBJg7_s8bERqKMtyPIIfwvMtVDGVr0F7ReQna2dJjBKKuOMbxaAStqb27WXBPOk-psi2TAVQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzk0MiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.RtmBzLGE07T1xMOvcM6fXnKbL0mW-neDBh4vWD18JgewM9N5Sob6udCPv5OFGxnVjW8aWeUTUUquFwO1FSaU6A","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:22:22,313 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+2022-10-26 02:22:22,313 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'get')
+2022-10-26 02:22:22,313 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMzNDEsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.To2I_7gOSfJUTmRS2x-oH-XiNldlt7Re1HSgyVctp4JGM31BRb7zF5fo82Su35Qt8kQfsjGqHl5PXVaN4Sh6sA'})
+2022-10-26 02:22:22,314 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+2022-10-26 02:22:22,314 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:22:22,314 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:22:22,314 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:22:22,315 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:22:22,431 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:22:22,431 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMzNDIsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.aPCdPtB6RuHPVoPbypZupkd197FarFPaAqfts1FPgQ9whk4hvPgRxjIXjBjCTYo-gJhneqj9Z4VaneMSyEG0Eg","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjM5NDIsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.9cArvR_Gb17Bbr64PYdrv15mekD553ZTMI1ax2aMemjeFiSHNefRvc-3Qd7-EE8Iif_4HETbUwAEkm1ekUXdTA","face":null,"role_id":0,"founder":1}
+2022-10-26 02:22:22,432 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjMzNDIsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.aPCdPtB6RuHPVoPbypZupkd197FarFPaAqfts1FPgQ9whk4hvPgRxjIXjBjCTYo-gJhneqj9Z4VaneMSyEG0Eg
+2022-10-26 02:22:22,493 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+2022-10-26 02:22:22,494 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:22:22,494 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzM0MSwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.pXZPcoBPdUMogsLRmdGHPkhdv0ruWwPWy4jc8x7WgbCIGCNW0O8Ls76BbLzBuPoUbBZIQhDLKnDMDg0wJnOGtA'})
+2022-10-26 02:22:22,494 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'hashhsdhhjdh'})
+2022-10-26 02:22:22,495 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:22:22,495 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:22:22,495 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:22:22,495 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:22:22,582 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:22:22,582 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzM0MiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.g223dPB-BsT_GdWBJg7_s8bERqKMtyPIIfwvMtVDGVr0F7ReQna2dJjBKKuOMbxaAStqb27WXBPOk-psi2TAVQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzk0MiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.RtmBzLGE07T1xMOvcM6fXnKbL0mW-neDBh4vWD18JgewM9N5Sob6udCPv5OFGxnVjW8aWeUTUUquFwO1FSaU6A","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+2022-10-26 02:22:22,583 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzM0MiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.g223dPB-BsT_GdWBJg7_s8bERqKMtyPIIfwvMtVDGVr0F7ReQna2dJjBKKuOMbxaAStqb27WXBPOk-psi2TAVQ
+2022-10-26 02:22:22,726 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:yaoyao
+2022-10-26 02:22:22,746 INFO [apiautotest] [client.py (extract_expr:73] - 接口的提取出来的响应内容是:chaichai
+2022-10-26 02:22:22,758 INFO [apiautotest] [client.py (send:55] - 接口信息是：('url', 'http://www.mtxshop.com:7002/trade/carts/buy')
+2022-10-26 02:22:22,758 INFO [apiautotest] [client.py (send:55] - 接口信息是：('method', 'post')
+2022-10-26 02:22:22,758 INFO [apiautotest] [client.py (send:55] - 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMzM0MiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.g223dPB-BsT_GdWBJg7_s8bERqKMtyPIIfwvMtVDGVr0F7ReQna2dJjBKKuOMbxaAStqb27WXBPOk-psi2TAVQ'})
+2022-10-26 02:22:22,758 INFO [apiautotest] [client.py (send:55] - 接口信息是：('params', {'sku_id': 891, 'num': 2})
+2022-10-26 02:22:22,758 INFO [apiautotest] [client.py (send:55] - 接口信息是：('data', None)
+2022-10-26 02:22:22,758 INFO [apiautotest] [client.py (send:55] - 接口信息是：('json', None)
+2022-10-26 02:22:22,758 INFO [apiautotest] [client.py (send:55] - 接口信息是：('files', None)
+2022-10-26 02:22:22,759 INFO [apiautotest] [client.py (send:56] - 准备开始发起请求
+2022-10-26 02:22:22,803 INFO [apiautotest] [client.py (send:59] - 接口响应状态码是：200
+2022-10-26 02:22:22,803 INFO [apiautotest] [client.py (send:60] - 接口响应内容是：

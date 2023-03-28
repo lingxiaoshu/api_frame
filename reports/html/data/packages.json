@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "keywords.test_run",
+    "children" : [ {
+      "name" : "立即购买成功",
+      "uid" : "f6093b3cd4f1c4ec",
+      "parentUid" : "6e2d8f85083a02c9d5bd5c54ee925291",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666722141656,
+        "stop" : 1666722142153,
+        "duration" : 497
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'立即购买成功'" ]
+    }, {
+      "name" : "立即购买-数量为空",
+      "uid" : "271795d2e7a2ae9a",
+      "parentUid" : "6e2d8f85083a02c9d5bd5c54ee925291",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666722142437,
+        "stop" : 1666722142812,
+        "duration" : 375
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'立即购买-数量为空'" ]
+    } ],
+    "uid" : "keywords.test_run"
+  } ]
+}

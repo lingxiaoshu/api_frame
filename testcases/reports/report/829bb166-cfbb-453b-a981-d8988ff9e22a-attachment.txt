@@ -1,0 +1,32 @@
+INFO     apiautotest:client.py:55 接口信息是：('url', 'http://www.mtxshop.com:7002/passport/login')
+INFO     apiautotest:client.py:55 接口信息是：('method', 'post')
+INFO     apiautotest:client.py:55 接口信息是：('headers', {'Authorization': None})
+INFO     apiautotest:client.py:55 接口信息是：('params', {'username': 'yaoyao', 'password': 'a146ee7b21c6a21e506b717119b0d478', 'captcha': '1512', 'uuid': 'qwert'})
+INFO     apiautotest:client.py:55 接口信息是：('data', None)
+INFO     apiautotest:client.py:55 接口信息是：('json', None)
+INFO     apiautotest:client.py:55 接口信息是：('files', None)
+INFO     apiautotest:client.py:56 准备开始发起请求
+INFO     apiautotest:client.py:59 接口响应状态码是：200
+INFO     apiautotest:client.py:60 接口响应内容是：{"uid":72,"username":"yaoyao","nickname":"chaichai","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMTU5NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.Ok6DY1NcIfFi9ZH78jh61wzCgO8wj7dwCSfA3_BfEi6VDGX05aGBOjlyiakjLuxIKZLBLXuFjLOe5GPgCEoRzQ","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjcyLCJzdWIiOiJCVVlFUiIsInJvbGVzIjpbIkJVWUVSIl0sImV4cCI6MTY2NjcyMjE5NiwidXVpZCI6bnVsbCwidXNlcm5hbWUiOiJ5YW95YW8ifQ.w88dJBtBfKOw2iC35dvnDrsm_4I85UIGrxqzcjxPWiG7vkXbP_mtY-C3cIf_yTLyHXkwQGRe4KKUworI12nd5Q","face":"http://www.mtxshop.com:7000/statics/attachment/normal/2022/7/7/22/52410827.png"}
+INFO     apiautotest:client.py:55 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/login')
+INFO     apiautotest:client.py:55 接口信息是：('method', 'get')
+INFO     apiautotest:client.py:55 接口信息是：('headers', {'Authorization': None})
+INFO     apiautotest:client.py:55 接口信息是：('params', {'username': 'shamoseller', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'captcha': '1512', 'uuid': 'qwert'})
+INFO     apiautotest:client.py:55 接口信息是：('data', None)
+INFO     apiautotest:client.py:55 接口信息是：('json', None)
+INFO     apiautotest:client.py:55 接口信息是：('files', None)
+INFO     apiautotest:client.py:56 准备开始发起请求
+INFO     apiautotest:client.py:59 接口响应状态码是：200
+INFO     apiautotest:client.py:60 接口响应内容是：{"uid":67,"username":"shamoseller","nickname":"shamoseller","access_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE1OTYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.BtApZcS1MASdEeQruen31jAMKAVxEVfR6ZiJ-U1d0JlF2D4cA_M-pjIWeXtfD5Ve8SEMx-Et1czNTYUzZd_07Q","refresh_token":"eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjIxOTYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.wFaWMNb1eUChLx837r9Y0YRy_xsP_0NSFSMBvpmA2AImjMs1bNMca66IFWm0Z-gec5sCM6gRMJq4RdLjwR4CTA","face":null,"role_id":0,"founder":1}
+INFO     apiautotest:client.py:73 接口提取出来的接口响应内容是：eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE1OTYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.BtApZcS1MASdEeQruen31jAMKAVxEVfR6ZiJ-U1d0JlF2D4cA_M-pjIWeXtfD5Ve8SEMx-Et1czNTYUzZd_07Q
+INFO     apiautotest:client.py:55 接口信息是：('url', 'http://www.mtxshop.com:7003/seller/goods')
+INFO     apiautotest:client.py:55 接口信息是：('method', 'post')
+INFO     apiautotest:client.py:55 接口信息是：('headers', {'Authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJzZWxmT3BlcmF0ZWQiOjAsInN1YiI6IkNMRVJLIiwicm9sZSI6IlNVUEVSX1NFTExFUiIsImZvdW5kZXIiOm51bGwsInJvbGVzIjpbIkJVWUVSIiwiU0VMTEVSIiwiQ0xFUksiXSwic2VsbGVyTmFtZSI6IuaymemZjOeahOW6lyIsImNsZXJrSWQiOjgsInV1aWQiOm51bGwsInVpZCI6NjcsInNlbGxlcklkIjoyMCwiY2xlcmtOYW1lIjoic2hhbW9zZWxsZXIiLCJleHAiOjE2NjY3MjE1OTYsInVzZXJuYW1lIjoic2hhbW9zZWxsZXIifQ.BtApZcS1MASdEeQruen31jAMKAVxEVfR6ZiJ-U1d0JlF2D4cA_M-pjIWeXtfD5Ve8SEMx-Et1czNTYUzZd_07Q'})
+INFO     apiautotest:client.py:55 接口信息是：('params', None)
+INFO     apiautotest:client.py:55 接口信息是：('data', None)
+INFO     apiautotest:client.py:55 接口信息是：('json', {'brand_id': '', 'category_id': 88, 'category_name': '', 'goods_name': '彩虹豆测试88', 'sn': '342435', 'price': '101', 'mktprice': '100', 'cost': '60', 'weight': '1', 'goods_gallery_list': [{'img_id': -1, 'original': 'http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png', 'sort': 0}], 'quantity': 9999999, 'goods_transfee_charge': 1, 'has_changed': 0, 'market_enable': 1, 'template_id': 0, 'exchange': {'category_id': '', 'enable_exchange': 0, 'exchange_money': 0, 'exchange_point': 0}, 'shop_cat_id': 0, 'meta_description': '', 'meta_keywords': '', 'page_title': '', 'goods_params_list': [], 'sku_list': [], 'intro': ''})
+INFO     apiautotest:client.py:55 接口信息是：('files', None)
+INFO     apiautotest:client.py:56 准备开始发起请求
+INFO     apiautotest:client.py:59 接口响应状态码是：200
+INFO     apiautotest:client.py:60 接口响应内容是：{"goods_id":26711,"goods_name":"彩虹豆**88","sn":"342435","brand_id":null,"category_id":88,"goods_type":"NORMAL","weight":1.0,"market_enable":1,"intro":"","price":101.0,"cost":60.0,"mktprice":100.0,"have_spec":0,"create_time":1666720396,"last_modify":1666720396,"view_count":0,"buy_count":0,"disabled":1,"quantity":9999999,"enable_quantity":9999999,"point":null,"page_title":"彩虹豆测试88","meta_keywords":"彩虹豆测试88","meta_description":"彩虹豆测试88","grade":100.0,"thumbnail":"http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png_300x300.png","big":"http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png_800x800.png","small":"http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png_400x400.png","original":"http://www.mtxshop.com:7000/statics/attachment/goods/2021/6/20/11/19099180.png","seller_id":20,"shop_cat_id":0,"comment_num":0,"template_id":0,"goods_transfee_charge":1,"seller_name":"沙陌的店","is_auth":0,"auth_message":null,"under_message":null,"self_operated":0}
+INFO     apiautotest:client.py:73 接口提取出来的接口响应内容是：26711
